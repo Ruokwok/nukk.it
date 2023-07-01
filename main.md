@@ -37,12 +37,16 @@ Nukkit提供完善、便捷、强大的插件支持，你可以在以下网站�
 ## 相关链接
 
 - 官方网站 [https://cloudburstmc.org/](https://cloudburstmc.org/)
-- Jenkins https://ci.opencollab.dev//job/NukkitX/
+- Jenkins [https://ci.opencollab.dev//job/NukkitX/](https://ci.opencollab.dev//job/NukkitX/)
 - Github [https://github.com/CloudburstMC/Nukkit](https://github.com/CloudburstMC/Nukkit)
 - MineBBS Nukkit板块 [https://www.minebbs.com/forums/nukkit/](https://www.minebbs.com/forums/nukkit/)
-- MCBBS Nukkit专区 https://www.mcbbs.net/forum-1718-1.html
+- MCBBS Nukkit专区 [https://www.mcbbs.net/forum-1718-1.html](https://www.mcbbs.net/forum-1718-1.html)
 - NukkitLearn教程整理计划 [https://github.com/Server-Founder/NukkitLearn](https://github.com/Server-Founder/NukkitLearn)
 - Nukkit吧 [http://tieba.baidu.com/f?kw=nukkit](http://tieba.baidu.com/f?kw=nukkit)
+
+------
+
+
 
 # 分支与衍生版本
 
@@ -53,6 +57,10 @@ Nukkit提供完善、便捷、强大的插件支持，你可以在以下网站�
 - 官网 [https://cloudburstmc.org/](https://cloudburstmc.org/)
 - Jenkins [https://ci.opencollab.dev//job/NukkitX/](https://ci.opencollab.dev//job/NukkitX/)
 - Javadoc [https://ci.opencollab.dev/job/NukkitX/job/Nukkit/job/master/javadoc/overview-summary.html](https://ci.opencollab.dev/job/NukkitX/job/Nukkit/job/master/javadoc/overview-summary.html)
+
+------
+
+
 
 # PowerNukkitX
 
@@ -73,18 +81,26 @@ PowerNukkitX是由包括超神的冰凉（[Superice666](https://github.com/Super
 
 - Discord [https://discord.gg/j7UwsaNu4V](https://discord.gg/j7UwsaNu4V)
 
+------
+
+
+
 ## NukkitPetteriM1Edition
 
 NukkitPetteriM1Edition是NukkitX核心开发者之一[PetteriM1](https://github.com/PetteriM1/)为其服务器[SuomiCraft PE](http://suomicraftpe.tk/)制作的特殊版本Nukkit。一般简称为**PM1ENK、Nukkit-PM1E、PM1E**。与NukkitX相比，内置生物AI和生物生成、更多实现的方块、物品和命令、并且从1.2.0到最新版本的多版本客户端支持（不包括所有的测试版本，不积极维护远古版本），但仅支持英文。
 
 做为众多基岩版服务端中首个支持多客户端版本的核心，PM1E被众多小游戏服务器所采用，其中包括国内基岩版知名小游戏服务器[FillAmeaPixel](https://www.fapixel.com/)（FAP）。
 
-- Github https://github.com/PetteriM1/NukkitPetteriM1Edition/
-- MineBBS https://www.minebbs.com/resources/nukkit-petterim1-edition-nukkit.2617/
+- Github [https://github.com/PetteriM1/NukkitPetteriM1Edition/](https://github.com/PetteriM1/NukkitPetteriM1Edition/)
+- MineBBS [https://www.minebbs.com/resources/nukkit-petterim1-edition-nukkit.2617/](https://www.minebbs.com/resources/nukkit-petterim1-edition-nukkit.2617/)
 
 **争议：2022年11月15日，PetteriM1删除了PM1E仓库下的所有代码，并表示接下来只会发布混淆过的jar文件供使用。此举引起了社区的强烈不满，据知情人士透露，这么做的原因是为了防止“别人抄袭他的代码”。而在闭源后，PM1ENK又被指控在接下来的更新中存在对PowerNukkitX的抄袭。在此期间，一位名为sora-kawaii的Github用户成功反混淆了PM1ENK并公布了源码，公开的代码显示了PM1ENK对开源项目的抄袭。2023年1月18日，PM1ENK发布了更新，此次更新被认为使用了业内最贵的付费混淆器ZKM以加强混淆效果，这一违背开源协议的行为立刻掀起了社区中抵制PM1ENK的浪潮，随后社区推出了基于PM1ENK最后一个开源版本开发的Nukkit-MOT核心，FillAmeaPixel团队也将内核迁移至MOT版本，全面停用PM1ENK。**
 
-参考文章 刀哥:《[为什么你不应该使用PM1ENK - 细说PM1ENK的罪状](https://www.minebbs.com/threads/pm1enk-pm1enk.16912/)》
+*参考文章 刀哥:《[为什么你不应该使用PM1ENK - 细说PM1ENK的罪状](https://www.minebbs.com/threads/pm1enk-pm1enk.16912/)》*
+
+------
+
+
 
 ## NukkitPetteriM1Edition-MOT
 
